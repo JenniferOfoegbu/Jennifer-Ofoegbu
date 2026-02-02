@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtual Home Lab Windows Linux                | <a href="https://github.com/JenniferOfoegbu/Virtual-Home-Lab-Window-Linux">Virual Home Lab</a>|
+| Virtual Home Lab Windows Linux                | <a href="https://github.com/JenniferOfoegbu/Virtual-Home-Lab-Window-Linux">Virtual Home Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -57,5 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/JenniferOfoegbu/Virtual-Home-Lab-Window-Linux">Virtual Home Lab</a>
 - Detection Lab
 - SOC Automation Project
